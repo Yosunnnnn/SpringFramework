@@ -1,0 +1,6 @@
+拉取Spring5.2.x分支代码
+回滚至2023/4/12 19:07处的提交
+Replace `Collections.unmodifiableList(new ArrayList(..))` with `List.copyOf()` (#30166)
+idea使用2023.1
+gradle使用5.6.3
+jdk17
